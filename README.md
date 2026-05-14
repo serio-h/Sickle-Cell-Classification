@@ -12,9 +12,9 @@ Deep learning pipeline for classifying sickle cell disease from microscopy image
 
 | Model | Task | Parameters | Accuracy | F1-Score | AUC-ROC |
 |-------|------|-----------|----------|----------|---------|
-| YOLOv8n | Detection | 3.0 M | 0.8509 | 0.8874 | 0.9464 |
-| YOLO12n | Detection | 2.6 M | 0.8333 | 0.8742 | 0.9347 |
-| SW-ViT (Swin-Base) | Classification | 86.7 M | 0.9912 | 0.9941 | 0.9996 |
+| YOLOv8n | Detection | 3.0 M | 0.9231 | 0.9434 | 0.9615 |
+| YOLO12n | Detection | 2.6 M | 0.7807 | 0.8252 | 0.9385 |
+| SW-ViT (Swin-Base) | Classification | 86.7 M | 0.9825 | 0.9881 | 0.9980 |
 
 ## Google Colab Tutorials
 
